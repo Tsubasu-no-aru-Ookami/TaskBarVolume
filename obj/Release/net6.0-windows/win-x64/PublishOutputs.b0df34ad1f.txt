@@ -1,0 +1,2 @@
+C:\папки\коды\С#\TaskBarVolume\out\TaskbarAppVolume.pdb
+C:\папки\коды\С#\TaskBarVolume\out\TaskbarAppVolume.exe

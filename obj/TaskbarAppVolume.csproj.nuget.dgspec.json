@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\папки\\коды\\С#\\TaskBarVolume\\TaskbarAppVolume.csproj": {}
+  },
+  "projects": {
+    "C:\\папки\\коды\\С#\\TaskBarVolume\\TaskbarAppVolume.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\папки\\коды\\С#\\TaskBarVolume\\TaskbarAppVolume.csproj",
+        "projectName": "TaskbarAppVolume",
+        "projectPath": "C:\\папки\\коды\\С#\\TaskBarVolume\\TaskbarAppVolume.csproj",
+        "packagesPath": "C:\\Users\\rexli\\.nuget\\packages\\",
+        "outputPath": "C:\\папки\\коды\\С#\\TaskBarVolume\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rexli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "NAudio.Wasapi": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
